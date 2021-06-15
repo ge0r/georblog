@@ -50,6 +50,9 @@
     }
 }
 
+.terminal {
+    text-align: justify;
+}
 
 .sidebar-heading {
     text-transform: none;
